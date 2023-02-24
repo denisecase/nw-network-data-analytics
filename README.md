@@ -60,7 +60,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ PG
  - [GitHub]() ◆ [LinkedIn]() ◆ TG
  - [GitHub]() ◆ [LinkedIn]() ◆ HH
- - [GitHub]() ◆ [LinkedIn]() ◆ BH
+ - [GitHub](https://github.com/bethharvey) ◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
  - [GitHub]() ◆ [LinkedIn]() ◆ KH
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
  - [GitHub]() ◆ [LinkedIn]() ◆ SK
