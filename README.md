@@ -67,7 +67,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ LL
  - [GitHub]() ◆ [LinkedIn]() ◆ CM
  - [GitHub]() ◆ [LinkedIn]() ◆ AM
- - [GitHub]() ◆ [LinkedIn]() ◆ EM
+ - [GitHub](https://github.com/ericmeyer1) ◆ [LinkedIn](https://www.linkedin.com/in/ericmeyer123/) ◆ Eric Meyer
  - [GitHub]() ◆ [LinkedIn]() ◆ DO
  - [GitHub]() ◆ [LinkedIn]() ◆ KO
  - [GitHub]() ◆ [LinkedIn]() ◆ CP
