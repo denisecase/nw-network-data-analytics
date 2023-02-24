@@ -74,4 +74,4 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ KS
  - [GitHub]() ◆ [LinkedIn]() ◆ SS
  - [GitHub]() ◆ [LinkedIn]() ◆ DT
- - [GitHub]() ◆ [LinkedIn]() ◆ JW
+ - [GitHub](https://github.com/jordanwheeler7) ◆ [LinkedIn](https://www.linkedin.com/in/jordan-wheeler-8724a9195/) ◆ Jordan Wheeler
