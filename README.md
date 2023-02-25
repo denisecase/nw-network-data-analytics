@@ -39,7 +39,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ AS
  - [GitHub]() ◆ [LinkedIn]() ◆ JS
  - [GitHub]() ◆ [LinkedIn]() ◆ RT
- - [GitHub]() ◆ [LinkedIn]() ◆ DW
+ - [GitHub](https://github.com/ddwalk77) ◆ [LinkedIn](https://www.linkedin.com/in/ddw77/) ◆ Debra Walker
  - [GitHub]() ◆ [LinkedIn]() ◆ SW
  - [GitHub]() ◆ [LinkedIn]() ◆ LW
  - [GitHub]() ◆ [LinkedIn]() ◆ JW
