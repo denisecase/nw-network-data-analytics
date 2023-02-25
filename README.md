@@ -12,7 +12,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ MB
  - [GitHub]() ◆ [LinkedIn]() ◆ SB
  - [GitHub]() ◆ [LinkedIn]() ◆ MB
- - [GitHub]() ◆ [LinkedIn]() ◆ DC
+ - [GitHub](https://github.com/declayton) ◆ [LinkedIn]() ◆ Deanna Clayton
  - [GitHub]() ◆ [LinkedIn]() ◆ AC
  - [GitHub]() ◆ [LinkedIn]() ◆ JC
  - [GitHub]() ◆ [LinkedIn]() ◆ SC
