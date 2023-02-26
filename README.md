@@ -51,7 +51,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ AA
  - [GitHub]() ◆ [LinkedIn]() ◆ TA
  - [GitHub]() ◆ [LinkedIn]() ◆ AA
- - [GitHub]() ◆ [LinkedIn]() ◆ CB
+ - [GitHub](https://github.com/chelsbrammer) ◆ [LinkedIn](https://www.linkedin.com/in/chelsea-brammer-384b1bba/) ◆ Chelsea Brammer
  - [GitHub]() ◆ [LinkedIn]() ◆ BC
  - [GitHub]() ◆ [LinkedIn]() ◆ AC
  - [GitHub]() ◆ [LinkedIn]() ◆ JC
