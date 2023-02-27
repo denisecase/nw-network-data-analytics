@@ -21,7 +21,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ TF
  - [GitHub]() ◆ [LinkedIn]() ◆ AF
  - [GitHub]() ◆ [LinkedIn]() ◆ EG
- - [GitHub]() ◆ [LinkedIn]() ◆ MG
+ - [GitHub](https://github.com/GeckoG) ◆ [LinkedIn](https://www.linkedin.com/in/matt-goeckel-a9440622b/) ◆ Matt Goeckel
  - [GitHub](https://github.com/mandi1120) ◆ [LinkedIn](https://www.linkedin.com/in/amandahanway/) ◆ Amanda Hanway
  - [GitHub]() ◆ [LinkedIn]() ◆ KH
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
