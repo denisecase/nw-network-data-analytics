@@ -56,7 +56,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ AC
  - [GitHub]() ◆ [LinkedIn]() ◆ JC
  - [GitHub](https://github.com/ss2jak) ◆ [LinkedIn](https://www.linkedin.com/in/jakiel10) ◆ Jakiel David
- - [GitHub]() ◆ [LinkedIn]() ◆ KF
+ - [GitHub](https://github.com/AnaylsisKris) ◆ [LinkedIn](https://www.linkedin.com/in/kristen-finley-7a5584a0/) ◆ Kristen Finley
  - [GitHub]() ◆ [LinkedIn]() ◆ PG
  - [GitHub]() ◆ [LinkedIn]() ◆ TG
  - [GitHub]() ◆ [LinkedIn]() ◆ HH
