@@ -48,7 +48,7 @@ Network for those earning a NW Masters of Applied Data Science
 ## Spring 2023 Block 1 - 608 - Data Analytics Fundamentals
 
  - [GitHub]() ◆ [LinkedIn]() ◆ OA
- - [GitHub]() ◆ [LinkedIn]() ◆ AA
+ - [GitHub](https://github.com/andyakiva) ◆ Andy Asher
  - [GitHub]() ◆ [LinkedIn]() ◆ TA
  - [GitHub]() ◆ [LinkedIn]() ◆ AA
  - [GitHub](https://github.com/chelsbrammer) ◆ [LinkedIn](https://www.linkedin.com/in/chelsea-brammer-384b1bba/) ◆ Chelsea Brammer
