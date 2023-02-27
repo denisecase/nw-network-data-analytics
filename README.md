@@ -17,7 +17,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ JC
  - [GitHub]() ◆ [LinkedIn]() ◆ SC
  - [GitHub]() ◆ [LinkedIn]() ◆ ZD
- - [GitHub]() ◆ [LinkedIn]() ◆ DE
+ - [GitHub](https://github.com/dylanegg) ◆ [LinkedIn](https://www.linkedin.com/in/dylaneggemeyer/) ◆ Dylan Eggemeyer
  - [GitHub]() ◆ [LinkedIn]() ◆ TF
  - [GitHub]() ◆ [LinkedIn]() ◆ AF
  - [GitHub]() ◆ [LinkedIn]() ◆ EG
