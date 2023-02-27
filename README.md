@@ -61,7 +61,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ TG
  - [GitHub]() ◆ [LinkedIn]() ◆ HH
  - [GitHub](https://github.com/bethharvey) ◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
- - [GitHub]() ◆ [LinkedIn]() ◆ KH
+ - [GitHub](https://github.com/krh5284) ◆ [LinkedIn](https://www.linkedin.com/in/kellie-heckman-777920139/) ◆ Kellie Heckman
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
  - [GitHub](https://github.com/Shantik998) ◆ [LinkedIn](https://www.linkedin.com/in/shanti-kandel-8a307513a/) ◆ Shanti Kandel
  - [GitHub](https://github.com/LevLow) ◆ [LinkedIn](https://www.linkedin.com/in/levi-lowther-b35435106/) ◆ Levi Lowther
