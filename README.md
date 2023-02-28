@@ -27,7 +27,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
  - [GitHub](https://github.com/IamLimaEchoEcho) ◆ [LinkedIn](https://www.linkedin.com/in/lee-j-5956b928/) ◆ Lee Jones
  - [GitHub]() ◆ [LinkedIn]() ◆ CK
- - [GitHub]() ◆ [LinkedIn]() ◆ AL
+ - [GitHub](https://github.com/abbylloyd03) ◆ [LinkedIn](https://www.linkedin.com/in/abby-lloyd-4a0b11183/) ◆ Abby Lloyd
  - [GitHub]() ◆ [LinkedIn]() ◆ BM
  - [GitHub]() ◆ [LinkedIn]() ◆ HN
  - [GitHub]() ◆ [LinkedIn]() ◆ JN
