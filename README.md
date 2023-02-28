@@ -25,7 +25,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub](https://github.com/mandi1120) ◆ [LinkedIn](https://www.linkedin.com/in/amandahanway/) ◆ Amanda Hanway
  - [GitHub]() ◆ [LinkedIn]() ◆ KH
  - [GitHub]() ◆ [LinkedIn]() ◆ AH
- - [GitHub]() ◆ [LinkedIn]() ◆ LJ
+ - [GitHub](https://github.com/IamLimaEchoEcho) ◆ [LinkedIn](https://www.linkedin.com/in/lee-j-5956b928/) ◆ Lee Jones
  - [GitHub]() ◆ [LinkedIn]() ◆ CK
  - [GitHub]() ◆ [LinkedIn]() ◆ AL
  - [GitHub]() ◆ [LinkedIn]() ◆ BM
