@@ -33,7 +33,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ JN
  - [GitHub]() ◆ [LinkedIn]() ◆ SP
  - [GitHub]() ◆ [LinkedIn]() ◆ MP
- - [GitHub]() ◆ [LinkedIn]() ◆ PS
+ - [GitHub](https://github.com/presleyschumacher) ◆ [LinkedIn](https://www.linkedin.com/feed/) ◆ Presley Schumacher
  - [GitHub]() ◆ [LinkedIn]() ◆ MS
  - [GitHub]() ◆ [LinkedIn]() ◆ RS
  - [GitHub]() ◆ [LinkedIn]() ◆ AS
