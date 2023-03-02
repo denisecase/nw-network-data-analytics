@@ -72,6 +72,6 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub]() ◆ [LinkedIn]() ◆ KO
  - [GitHub]() ◆ [LinkedIn]() ◆ CP
  - [GitHub]() ◆ [LinkedIn]() ◆ KS
- - [GitHub]() ◆ [LinkedIn]() ◆ SS
+ - [GitHub](https://github.com/msmixj) ◆ [LinkedIn](https://www.linkedin.com/in/susie-smith-45b9783b/) ◆ Susie Smith
  - [GitHub]() ◆ [LinkedIn]() ◆ DT
  - [GitHub](https://github.com/jordanwheeler7) ◆ [LinkedIn](https://www.linkedin.com/in/jordan-wheeler-8724a9195/) ◆ Jordan Wheeler
