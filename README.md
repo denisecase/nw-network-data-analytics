@@ -1,8 +1,31 @@
-# nw-network-data-analytics
+# NW Data Analytics
 
 Network for those earning a NW Masters of Applied Data Science
 
 - [GitHub](https://github.com/denisecase) ◆ [LinkedIn](https://www.linkedin.com/in/denisecase) ◆ Denise Case
+
+## Spring 2023 Block 2 - 688 - Capstone
+
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ GA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ EA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SB
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AC
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ JC
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ DE
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AF
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AL
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ TM
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ BM
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SP
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ PS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ MS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ JS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ DW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ LW
 
 ## Spring 2023 Block 1 - 671 - Streaming Data
 
