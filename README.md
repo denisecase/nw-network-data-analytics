@@ -6,26 +6,26 @@ Network for those earning a NW Masters of Applied Data Science
 
 ## Spring 2023 Block 2 - 688 - Capstone
 
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ GA
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AA
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ EA
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SB
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AC
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ JC
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ DE
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AF
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AL
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ TM
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ BM
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SP
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ PS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ MS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ JS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ DW
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ AW
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ SW
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone]() ◆ LW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ GA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ EA
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SB
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AC
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DE
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AF
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AL
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ TM
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ BM
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SP
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ PS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ MS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JS
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SW
+- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ LW
 
 ## Spring 2023 Block 1 - 671 - Streaming Data
 
