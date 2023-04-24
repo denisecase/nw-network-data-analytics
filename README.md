@@ -26,6 +26,7 @@ Network for those earning a NW Masters of Applied Data Science
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AW
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SW
 - [GitHub](https://github.com/lwood7983) ◆ [LinkedIn](https://www.linkedin.com/in/loniwood1/) ◆ [Capstone Repo](https://github.com/lwood7983/L.Wood_Final_Capstone_Project.git) ◆ [Overleaf](https://www.overleaf.com/read/qwjkgksxjndz) ◆ Loni Wood
+ - [GitHub](https://github.com/jcreech72) ◆ [LinkedIn](linkedin.com/in/julie-creech/)◆ [Capstone Repo](https://github.com/jcreech72/CreechCapstone) ◆ [Overleaf](https://www.overleaf.com/read/mzdkvqkytrmg) ◆ Julie Creech
 
 ## Spring 2023 Block 1 - 671 - Streaming Data
 
@@ -39,6 +40,7 @@ Network for those earning a NW Masters of Applied Data Science
  - [GitHub](https://github.com/ddwalk77) ◆ [LinkedIn](https://www.linkedin.com/in/ddw77/) ◆ Debra Walker
  - [GitHub](https://github.com/sarahwind) ◆ [LinkedIn](https://www.linkedin.com/in/sarah-windeknecht-55418a144/) ◆ Sarah Windeknecht
  - [GitHub](https://github.com/lwood7983) ◆ [LinkedIn](https://www.linkedin.com/in/loniwood1/) ◆ Loni Wood
+ - [GitHub](https://github.com/jcreech72) ◆ [LinkedIn](linkedin.com/in/julie-creech/)◆ Julie Creech
 
 ## Spring 2023 Block 1 - 608 - Data Analytics Fundamentals
 
