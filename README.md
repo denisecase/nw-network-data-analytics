@@ -13,7 +13,7 @@ Network for those earning a NW Masters of Applied Data Science
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AC
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DE
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AF
+- [GitHub](https://github.com/afuller257) ◆ [LinkedIn](https://www.linkedin.com/in/andrew-fuller-456b93aa/) ◆ [Capstone Repo](https://github.com/afuller257/CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/stgnsngtzhwb) ◆ Andrew Fuller
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AL
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ TM
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ BM
