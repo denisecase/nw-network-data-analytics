@@ -18,7 +18,7 @@ Network for those earning a NW Masters of Applied Data Science
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ TM
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ BM
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SP
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ PS
+- [GitHub](https://github.com/presleyschumacher) ◆ [LinkedIn](https://www.linkedin.com/in/presleyschumacher/) ◆ [Capstone Repo](https://github.com/presleyschumacher/Predicting-Employee-Retention-with-HR-Analytics) ◆ [Overleaf](https://www.overleaf.com/read/mfhmvbkvpcjf) ◆ Presley Schumacher
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ MS
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AS
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JS
