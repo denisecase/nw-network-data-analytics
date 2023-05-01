@@ -8,7 +8,7 @@ Network for those earning a NW Masters of Applied Data Science
 
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ GA
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AA
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ EA
+- [GitHub](https://github.com/eden0214) ◆ [LinkedIn](https://www.linkedin.com/in/andersonedenm) ◆ [Capstone Repo](https://github.com/eden0214/44688_CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/pvbhscbngxfm) ◆ Eden Anderson
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SB
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AC
 - [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
