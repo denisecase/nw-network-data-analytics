@@ -6,25 +6,9 @@ Network for those earning a NW Masters of Applied Data Science
 
 ## Spring 2023 Block 2 - 688 - Capstone
 
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ GA
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AA
 - [GitHub](https://github.com/eden0214) ◆ [LinkedIn](https://www.linkedin.com/in/andersonedenm) ◆ [Capstone Repo](https://github.com/eden0214/44688_CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/pvbhscbngxfm) ◆ Eden Anderson
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SB
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AC
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JC
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DE
 - [GitHub](https://github.com/afuller257) ◆ [LinkedIn](https://www.linkedin.com/in/andrew-fuller-456b93aa/) ◆ [Capstone Repo](https://github.com/afuller257/CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/stgnsngtzhwb) ◆ Andrew Fuller
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AL
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ TM
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ BM
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SP
 - [GitHub](https://github.com/presleyschumacher) ◆ [LinkedIn](https://www.linkedin.com/in/presleyschumacher/) ◆ [Capstone Repo](https://github.com/presleyschumacher/Predicting-Employee-Retention-with-HR-Analytics) ◆ [Overleaf](https://www.overleaf.com/read/mfhmvbkvpcjf) ◆ Presley Schumacher
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ MS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ JS
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ DW
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ AW
-- [GitHub]() ◆ [LinkedIn]() ◆ [Capstone Repo]() ◆ [Overleaf]() ◆ SW
 - [GitHub](https://github.com/lwood7983) ◆ [LinkedIn](https://www.linkedin.com/in/loniwood1/) ◆ [Capstone Repo](https://github.com/lwood7983/L.Wood_Final_Capstone_Project.git) ◆ [Overleaf](https://www.overleaf.com/read/qwjkgksxjndz) ◆ Loni Wood
  - [GitHub](https://github.com/jcreech72) ◆ [LinkedIn](linkedin.com/in/julie-creech/)◆ [Capstone Repo](https://github.com/jcreech72/CreechCapstone) ◆ [Overleaf](https://www.overleaf.com/read/mzdkvqkytrmg) ◆ Julie Creech
 
