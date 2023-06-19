@@ -4,6 +4,20 @@ Network for those earning a NW Masters of Applied Data Science
 
 - [GitHub](https://github.com/denisecase) ◆ [LinkedIn](https://www.linkedin.com/in/denisecase) ◆ Denise Case
 
+## Summer 2023 Block 1 - 608 - Data Analytics Fundamentals
+
+ - GitHub ◆ LinkedIn ◆ WA
+ - GitHub ◆ LinkedIn ◆ DB
+ - GitHub ◆ LinkedIn ◆ WB
+ - GitHub ◆ LinkedIn ◆ SD
+ - GitHub ◆ LinkedIn ◆ BG
+ - GitHub ◆ LinkedIn ◆ CJ
+ - GitHub ◆ LinkedIn ◆ HM
+ - GitHub ◆ LinkedIn ◆ IM
+ - GitHub ◆ LinkedIn ◆ AS
+ - GitHub ◆ LinkedIn ◆ TS
+ - GitHub ◆ LinkedIn ◆ HW
+
 ## Spring 2023 Block 2 - 688 - Capstone
 
 - [GitHub](https://github.com/eden0214) ◆ [LinkedIn](https://www.linkedin.com/in/andersonedenm) ◆ [Capstone Repo](https://github.com/eden0214/44688_CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/pvbhscbngxfm) ◆ Eden Anderson
