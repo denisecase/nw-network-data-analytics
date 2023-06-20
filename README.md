@@ -11,7 +11,7 @@ Network for those earning a NW Masters of Applied Data Science
  - GitHub ◆ LinkedIn ◆ WB
  - GitHub ◆ LinkedIn ◆ SD
  - GitHub ◆ LinkedIn ◆ BG
- - GitHub ◆ LinkedIn ◆ CJ
+ - [GitHub](https://github.com/ChristianJBNB) ◆ [LinkedIn](https://www.linkedin.com/in/christian-jackson-391281193/) ◆ Christian Jackson
  - GitHub ◆ LinkedIn ◆ HM
  - GitHub ◆ LinkedIn ◆ IM
  - GitHub ◆ LinkedIn ◆ AS
