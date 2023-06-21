@@ -7,7 +7,7 @@ Network for those earning a NW Masters of Applied Data Science
 ## Summer 2023 Block 1 - 608 - Data Analytics Fundamentals
 
  - GitHub ◆ LinkedIn ◆ WA
- - GitHub ◆ LinkedIn ◆ DB
+ - [GitHub](https://github.com/dblake3377) ◆ [LinkedIn](https://www.linkedin.com/in/desiree-blake-7b4142200/) ◆ Desiree Blake 
  - GitHub ◆ LinkedIn ◆ WB
  - GitHub ◆ LinkedIn ◆ SD
  - GitHub ◆ LinkedIn ◆ BG
