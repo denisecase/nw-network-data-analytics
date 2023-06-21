@@ -18,6 +18,22 @@ Network for those earning a NW Masters of Applied Data Science
  - GitHub ◆ LinkedIn ◆ TS
  - [GitHub](https://github.com/Habtom1999)◆ [Linked](Inhttps://www.linkedin.com/in/habtom-woldu-b62b0a66/)  ◆ HW
 
+## Summer 2023 Block 1 - 613 - Data Visualization
+
+ - GitHub ◆ LinkedIn ◆ Your Name
+
+## Summer 2023 - 618 - Project Management
+
+ - Section 05 Group 1  ◆ Group Name
+ - Section 05 Group 2  ◆ Group Name
+ - Section 05 Group 3  ◆ Group Name
+ - Section 05 Group 4  ◆ Group Name
+ - Section 05 Group 5  ◆ Group Name
+ - Section 05 Group 6  ◆ Group Name
+ - Section 05 Group 7  ◆ Group Name
+ - Section 05 Group 8A ◆ Group Name
+ - Section 05 Group 8B ◆ Group Name
+
 ## Spring 2023 Block 2 - 688 - Capstone
 
 - [GitHub](https://github.com/eden0214) ◆ [LinkedIn](https://www.linkedin.com/in/andersonedenm) ◆ [Capstone Repo](https://github.com/eden0214/44688_CapstoneProject) ◆ [Overleaf](https://www.overleaf.com/read/pvbhscbngxfm) ◆ Eden Anderson
