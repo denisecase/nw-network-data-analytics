@@ -21,6 +21,7 @@ Network for those earning a NW Masters of Applied Data Science
 ## Summer 2023 Block 1 - 613 - Data Visualization
 
  - GitHub ◆ LinkedIn ◆ Your Name
+ - [GitHub](https://github.com/bethharvey)◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
 
 ## Summer 2023 - 618 - Project Management
 
