@@ -9,7 +9,7 @@ Network for those earning a NW Masters of Applied Data Science
  - GitHub ◆ LinkedIn ◆ WA
  - [GitHub](https://github.com/dblake3377) ◆ [LinkedIn](https://www.linkedin.com/in/desiree-blake-7b4142200/) ◆ Desiree Blake 
  - GitHub ◆ LinkedIn ◆ WB
- - GitHub ◆ LinkedIn ◆ SD
+ - [GitHub](https://github.com/Sarah566092) ◆ LinkedIn ◆ Sarah DeConink
  - GitHub ◆ LinkedIn ◆ BG
  - [GitHub](https://github.com/ChristianJBNB) ◆ [LinkedIn](https://www.linkedin.com/in/christian-jackson-391281193/) ◆ Christian Jackson
  - GitHub ◆ LinkedIn ◆ HM
