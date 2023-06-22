@@ -16,7 +16,7 @@ Network for those earning a NW Masters of Applied Data Science
  - GitHub ◆ LinkedIn ◆ IM
  - GitHub ◆ LinkedIn ◆ AS
  - GitHub ◆ LinkedIn ◆ TS
- - [GitHub](https://github.com/Habtom1999)◆ [LinkedIn](Inhttps://www.linkedin.com/in/habtom-woldu-b62b0a66/)  ◆ Habtom Woldu 
+ - [GitHub](https://github.com/Habtom1999)◆ [LinkedIn](https://www.linkedin.com/in/habtom-woldu-b62b0a66/)  ◆ Habtom Woldu 
 
 ## Summer 2023 Block 1 - 613 - Data Visualization
 
