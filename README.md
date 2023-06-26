@@ -20,21 +20,8 @@ Network for those earning a NW Masters of Applied Data Science
 
 ## Summer 2023 Block 1 - 613 - Data Visualization
 
- - GitHub ◆ LinkedIn ◆ Your Name
  - [GitHub](https://github.com/bkargel) ◆ [LinkedIn](https://www.linkedin.com/in/brendolyn-brendi-k-07347457) ◆ Brendi Kargel
  - [GitHub](https://github.com/bethharvey)◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
-
-## Summer 2023 - 618 - Project Management
-
- - Section 05 Group 1  ◆ Group Name
- - Section 05 Group 2  ◆ Group Name
- - Section 05 Group 3  ◆ Group Name
- - Section 05 Group 4  ◆ Group Name
- - Section 05 Group 5  ◆ Group Name
- - Section 05 Group 6  ◆ Group Name
- - Section 05 Group 7  ◆ Group Name
- - Section 05 Group 8A ◆ Group Name
- - Section 05 Group 8B ◆ Group Name
 
 ## Spring 2023 Block 2 - 688 - Capstone
 
