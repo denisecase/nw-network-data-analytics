@@ -4,6 +4,65 @@ Network for those earning a NW Masters of Applied Data Science
 
 - [GitHub](https://github.com/denisecase) ◆ [LinkedIn](https://www.linkedin.com/in/denisecase) ◆ Denise Case
 
+## Summer 2023 Block 2 - 620 - Web Mining and Applied NLP
+
+- GitHub ◆ LinkedIn ◆ MA
+- GitHub ◆ LinkedIn ◆ OA
+- GitHub ◆ LinkedIn ◆ AA
+- GitHub ◆ LinkedIn ◆ HB
+- GitHub ◆ LinkedIn ◆ CB
+- GitHub ◆ LinkedIn ◆ WB
+- GitHub ◆ LinkedIn ◆ AC
+- GitHub ◆ LinkedIn ◆ JC
+- GitHub ◆ LinkedIn ◆ PG
+- GitHub ◆ LinkedIn ◆ BH
+- GitHub ◆ LinkedIn ◆ KH
+- GitHub ◆ LinkedIn ◆ JH
+- GitHub ◆ LinkedIn ◆ AH
+- GitHub ◆ LinkedIn ◆ SK
+- GitHub ◆ LinkedIn ◆ GK
+- GitHub ◆ LinkedIn ◆ CL
+- GitHub ◆ LinkedIn ◆ KL
+- GitHub ◆ LinkedIn ◆ AL
+- GitHub ◆ LinkedIn ◆ LL
+- GitHub ◆ LinkedIn ◆ AM
+- GitHub ◆ LinkedIn ◆ MP
+- GitHub ◆ LinkedIn ◆ CP
+- GitHub ◆ LinkedIn ◆ IQ
+- GitHub ◆ LinkedIn ◆ PS
+- GitHub ◆ LinkedIn ◆ AS
+- GitHub ◆ LinkedIn ◆ KS
+- GitHub ◆ LinkedIn ◆ JS
+- GitHub ◆ LinkedIn ◆ LS
+- GitHub ◆ LinkedIn ◆ ES
+- GitHub ◆ LinkedIn ◆ ST
+- GitHub ◆ LinkedIn ◆ AT
+- GitHub ◆ LinkedIn ◆ DT
+- GitHub ◆ LinkedIn ◆ JW
+
+## Summer 2023 Block 2 - 630 - Continuous Intelligence and Interactive Analytics
+
+- GitHub ◆ LinkedIn ◆ WA
+- GitHub ◆ LinkedIn ◆ WB
+- GitHub ◆ LinkedIn ◆ AC
+- GitHub ◆ LinkedIn ◆ BG
+- GitHub ◆ LinkedIn ◆ MG
+- GitHub ◆ LinkedIn ◆ TG
+- GitHub ◆ LinkedIn ◆ BH
+- GitHub ◆ LinkedIn ◆ CJ
+- GitHub ◆ LinkedIn ◆ HM
+- GitHub ◆ LinkedIn ◆ LM
+- GitHub ◆ LinkedIn ◆ AM
+- GitHub ◆ LinkedIn ◆ IM
+- GitHub ◆ LinkedIn ◆ HP
+- GitHub ◆ LinkedIn ◆ CR
+- GitHub ◆ LinkedIn ◆ PSP
+- GitHub ◆ LinkedIn ◆ KS
+- GitHub ◆ LinkedIn ◆ TS
+- GitHub ◆ LinkedIn ◆ US
+- GitHub ◆ LinkedIn ◆ JW
+- GitHub ◆ LinkedIn ◆ HW
+
 ## Summer 2023 Block 1 - 608 - Data Analytics Fundamentals
 
  - GitHub ◆ LinkedIn ◆ WA
