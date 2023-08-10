@@ -15,7 +15,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ AC
 - GitHub ◆ LinkedIn ◆ JC
 - GitHub ◆ LinkedIn ◆ PG
-- GitHub ◆ LinkedIn ◆ BH
+- [GitHub](https://github.com/bethharvey) ◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
 - GitHub ◆ LinkedIn ◆ KH
 - GitHub ◆ LinkedIn ◆ JH
 - GitHub ◆ LinkedIn ◆ AH
@@ -48,7 +48,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ BG
 - GitHub ◆ LinkedIn ◆ MG
 - GitHub ◆ LinkedIn ◆ TG
-- GitHub ◆ LinkedIn ◆ BH
+- [GitHub](https://github.com/bethharvey) ◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
 - GitHub ◆ LinkedIn ◆ CJ
 - GitHub ◆ LinkedIn ◆ HM
 - GitHub ◆ LinkedIn ◆ LM
