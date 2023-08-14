@@ -38,7 +38,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ ST
 - GitHub ◆ LinkedIn ◆ AT
 - GitHub ◆ LinkedIn ◆ DT
-- GitHub ◆ LinkedIn ◆ JW
+- [GitHub](https://github.com/jordanwheeler7) ◆ [LinkedIn](https://www.linkedin.com/in/jordan-wheeler-8724a9195/) ◆ Jordan Wheeler
 
 ## Summer 2023 Block 2 - 630 - Continuous Intelligence and Interactive Analytics
 
@@ -60,7 +60,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ KS
 - GitHub ◆ LinkedIn ◆ TS
 - GitHub ◆ LinkedIn ◆ US
-- GitHub ◆ LinkedIn ◆ JW
+- [GitHub](https://github.com/jordanwheeler7) ◆ [LinkedIn](https://www.linkedin.com/in/jordan-wheeler-8724a9195/) ◆ Jordan Wheeler
 - GitHub ◆ LinkedIn ◆ HW
 
 ## Summer 2023 Block 1 - 608 - Data Analytics Fundamentals
