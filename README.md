@@ -26,7 +26,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ AL
 - GitHub ◆ LinkedIn ◆ LL
 - GitHub ◆ LinkedIn ◆ AM
-- GitHub ◆ LinkedIn ◆ MP
+- [GitHub](https://github.com/MPhillipS556427) ◆ [LinkedIn](https://www.linkedin.com/in/malcolm-p-2ab67971/) ◆ Malcolm Phillip
 - GitHub ◆ LinkedIn ◆ CP
 - GitHub ◆ LinkedIn ◆ IQ
 - GitHub ◆ LinkedIn ◆ PS
@@ -81,6 +81,7 @@ Network for those earning a NW Masters of Applied Data Science
 
  - [GitHub](https://github.com/bkargel) ◆ [LinkedIn](https://www.linkedin.com/in/brendolyn-brendi-k-07347457) ◆ Brendi Kargel
  - [GitHub](https://github.com/bethharvey)◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
+ - - [GitHub](https://github.com/MPhillipS556427) ◆ [LinkedIn](https://www.linkedin.com/in/malcolm-p-2ab67971/) ◆ Malcolm Phillip
 
 ## Spring 2023 Block 2 - 688 - Capstone
 
