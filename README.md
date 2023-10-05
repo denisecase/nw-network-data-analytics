@@ -19,7 +19,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ KH
 - GitHub ◆ LinkedIn ◆ JH
 - GitHub ◆ LinkedIn ◆ AH
-- GitHub ◆ LinkedIn ◆ SK
+- [GitHub](https://github.com/Shantik998) ◆ [LinkedIn](https://www.linkedin.com/in/shanti-kandel-8a307513a/) ◆ SK
 - GitHub ◆ LinkedIn ◆ GK
 - GitHub ◆ LinkedIn ◆ CL
 - GitHub ◆ LinkedIn ◆ KL
