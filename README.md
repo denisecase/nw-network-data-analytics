@@ -33,7 +33,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ AS
 - GitHub ◆ LinkedIn ◆ KS
 - GitHub ◆ LinkedIn ◆ JS
-- GitHub ◆ LinkedIn ◆ LS
+- [GitHub](https://github.com/LindseySully) ◆ [LinkedIn](https://www.linkedin.com/in/lindseynsullivan/) ◆ Lindsey Sullivan
 - GitHub ◆ LinkedIn ◆ ES
 - GitHub ◆ LinkedIn ◆ ST
 - GitHub ◆ LinkedIn ◆ AT
