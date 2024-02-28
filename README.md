@@ -26,7 +26,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ AL
 - GitHub ◆ LinkedIn ◆ LL
 - GitHub ◆ LinkedIn ◆ AM
-- GitHub ◆ LinkedIn ◆ MP
+- [GitHub](https://github.com/MPhillipS556427) ◆ [LinkedIn](https://www.linkedin.com/in/malcolm-p-2ab67971/) ◆ Malcolm Phillip
 - GitHub ◆ LinkedIn ◆ CP
 - GitHub ◆ LinkedIn ◆ IQ
 - GitHub ◆ LinkedIn ◆ PS
